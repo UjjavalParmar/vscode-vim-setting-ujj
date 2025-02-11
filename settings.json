@@ -263,21 +263,12 @@
     "statusBar.foreground": "#ffffff",
     "statusBar.debuggingForeground": "#ffffff"
   },
-  "workbench.activityBar.location": "hidden",
-  "editor.fontFamily": "Comic Code, monospace",
+  "workbench.activityBar.location": "default",
   "workbench.settings.openDefaultKeybindings": true,
   "git.openRepositoryInParentFolders": "never",
   "vim.statusBarColorControl": true,
-  "clangd.path": "c:\\Users\\Ujjaval Parmar\\AppData\\Roaming\\Code\\User\\globalStorage\\llvm-vs-code-extensions.vscode-clangd\\install\\18.1.3\\clangd_18.1.3\\bin\\clangd.exe",
   "git.autofetch": true,
   "security.workspace.trust.untrustedFiles": "open",
-  "github.copilot.enable": {
-    "*": true,
-    "plaintext": false,
-    "markdown": false,
-    "scminput": false
-  },
-  "github.copilot.preferredAccount": "ujjavalparmar2002@gmail.com",
   "editor.defaultFormatter": "vscodevim.vim",
   "[jsonc]": {
     "editor.defaultFormatter": "vscode.json-language-features"
@@ -288,4 +279,7 @@
   "[javascript]": {
     "editor.defaultFormatter": "vscode.typescript-language-features"
   },
+  "workbench.colorTheme": "Gruvbox Dark Hard",
+  "editor.fontFamily": "'Fira Code', 'Regular', monospace",
+  "window.zoomLevel": 1,
 }
