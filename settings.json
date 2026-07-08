@@ -11,7 +11,7 @@
   // This is for making the base-atelier-dune theme looks smooth on the variables
   "editor.tokenColorCustomizations": {
     "variables": "#a6a28c",
-    "comments": "#2ea542",
+    "comments": "#2ea542"
   },
   // Suggestions
   "editor.wordBasedSuggestions": "off",
@@ -98,7 +98,7 @@
     },
     {
       "before": [
-        "K",
+        "K"
       ],
       "after": [],
       "commands": [
@@ -279,7 +279,5 @@
   "[javascript]": {
     "editor.defaultFormatter": "vscode.typescript-language-features"
   },
-  "workbench.colorTheme": "Gruvbox Dark Hard",
-  "editor.fontFamily": "'Fira Code', 'Regular', monospace",
-  "window.zoomLevel": 1,
+  "window.zoomLevel": 1
 }
